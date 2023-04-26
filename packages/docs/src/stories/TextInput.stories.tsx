@@ -10,6 +10,14 @@ export default {
   title: 'Form/Text Input',
   component: TextInput,
   args: {},
+  argTypes: {
+    size: {
+      options: ['sm', 'md'],
+      control: {
+        type: 'inline-radio',
+      },
+    },
+  },
   decorators: [
     (Story) => {
       return (
