@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@pedrohenrikle-ignite-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@pedrohenrikle-ignite-ui/eslint-config": "*",
+    "@pedrohenrikle-ignite-ui/tokens": "*",
+    "@pedrohenrikle-ignite-ui/ts-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.4"
   },

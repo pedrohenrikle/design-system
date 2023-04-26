@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@pedrohenrikle-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,6 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.19.3",
+    "@rollup/pluginutils": "^4.2.1",
     "@storybook/addon-actions": "^6.5.12",
     "@storybook/addon-essentials": "^6.5.12",
     "@storybook/addon-interactions": "^6.5.12",
@@ -27,10 +28,10 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@pedrohenrikle-ignite-ui/eslint-config": "*",
+    "@pedrohenrikle-ignite-ui/react": "*",
+    "@pedrohenrikle-ignite-ui/tokens": "*",
+    "@pedrohenrikle-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.12",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

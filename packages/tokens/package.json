@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@pedrohenrikle-ignite-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
+    "@pedrohenrikle-ignite-ui/eslint-config": "*",
+    "@pedrohenrikle-ignite-ui/ts-config": "*",
     "@types/react": "^18.0.38",
     "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",
