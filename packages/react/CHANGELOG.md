@@ -1,5 +1,11 @@
 # @pedrohenrikle-ignite-ui/react
 
+## 2.0.2
+
+### Patch Changes
+
+- Added Toast component and styles
+
 ## 2.0.1
 
 ### Patch Changes
